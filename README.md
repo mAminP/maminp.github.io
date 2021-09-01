@@ -1,1 +1,0 @@
-# maminp.github.io
