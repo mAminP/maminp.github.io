@@ -16,6 +16,19 @@
     */
 
 
+/*!
+  * vue-router v3.5.2
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
+
+
 /*! *****************************************************************************
   Copyright (c) Microsoft Corporation.
     Permission to use, copy, modify, and/or distribute this software for any
@@ -62,19 +75,6 @@
    * limitations under the License.
    * =============================================================================
    */
-
-
-/*!
-  * vue-router v3.5.2
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
- * Released under the MIT License.
- */
 
 
 /*!
